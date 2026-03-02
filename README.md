@@ -40,3 +40,9 @@ We propose an AI-based dashboard system that:
 ---
 
 ## Project Structure
+AI-Industrial-Energy-Optimization/
+│
+├── data/
+├── ml_model/
+├── backend/
+└── frontend/
