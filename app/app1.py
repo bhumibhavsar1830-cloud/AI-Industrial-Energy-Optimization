@@ -27,7 +27,7 @@ df = pd.read_csv("../data/energy_data.csv")
 # -----------------------------
 # Load model
 # -----------------------------
-model = pickle.load(open("carbon_model_pkl.py", "rb"))
+model = pickle.load(open("../path_to_model/carbon_model.pkl", "rb"))
 
 # -----------------------------
 # Title Section
