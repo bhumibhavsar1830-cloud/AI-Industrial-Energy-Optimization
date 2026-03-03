@@ -38,3 +38,5 @@ if st.button("Predict Energy Consumption"):
 
 st.line_chart(df["Energy_Consumption_kWh"])
 st.bar_chart(df[["Carbon_Emissions_tons", "Renewable_Energy_Percentage"]])
+st.markdown("---")
+st.markdown("Built for Sustainable Industry Hackathon 2026 🚀")
