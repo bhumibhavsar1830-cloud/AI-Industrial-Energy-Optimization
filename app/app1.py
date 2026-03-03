@@ -1,3 +1,14 @@
+import os
+import pickle
+import streamlit as st
+
+model_path = "carbon_model.pkl"
+
+if os.path.exists(model_path):
+    with open(model_path, "rb") as f:
+        model = pickle.load(f)
+else:
+    st.error(f"Model file not found: {model_path}")
 import streamlit as st
 import pandas as pd
 import pickle
