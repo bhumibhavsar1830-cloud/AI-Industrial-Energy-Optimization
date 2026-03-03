@@ -7,7 +7,7 @@ import pickle
 df = pd.read_csv("energy_data.csv")
 
 # Load model
-model = pickle.load(open("model.pkl", "rb"))
+model = pickle.load(open("carbon_model.pkl", "rb"))
 
 st.title("⚡ AI-Based Industrial Energy Optimization System")
 st.subheader("Predict • Optimize • Reduce Cost & Emissions")
