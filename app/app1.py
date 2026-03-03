@@ -11,7 +11,7 @@ st.set_page_config(page_title="AI Energy Optimizer", layout="wide")
 # -----------------------------
 # Load dataset
 # -----------------------------
-df = pd.read_csv("energy_data.csv")
+df = pd.read_csv("../data/energy_data.csv")
 
 # -----------------------------
 # Load model
