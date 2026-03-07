@@ -49,6 +49,8 @@ Most factories in India operate without any intelligent energy monitoring:
 | 📊 **Dashboard** | Interactive Streamlit charts and trend views |
 | 📋 **Compliance Reports** | Auto-generated BEE & ISO 50001 aligned reports |
 | 💰 **ROI Tracker** | Shows cost savings and emission reduction in real time |
+| ☁️ **SaaS Model** | Cloud-based platform, no hardware installation needed |
+| 🏭 **B2B Focus** | Sold directly to factories and manufacturing industries |
 
 ---
 
@@ -71,17 +73,19 @@ Most factories in India operate without any intelligent energy monitoring:
 AI-Industrial-Energy-Optimization/
 │
 ├── app/
-│   ├── app1.py                  ← Streamlit dashboard (main app)
-│   └── carbon_model.pkl         ← Trained ML model
+│   ├── app1.py              ← Streamlit dashboard (main app)
+│   ├── carbon_model.pkl     ← Trained ML model
+│   └── requirements.txt     ← Python dependencies
 │
 ├── data/
-│   └── *.csv                    ← Industrial energy sensor dataset
+│   ├── energy_data.csv      ← Industrial energy sensor dataset
+│   └── train_model.py       ← Training script
 │
 ├── ml_model/
-│   ├── carbon_model_pkl.ipynb   ← Model training notebook
-│   └── train_model.py           ← Training script
+│   ├── train_model.py       ← Training script
+│   └── carbon_model.pkl     ← Trained ML model
 │
-├── ecocore_pitch_v3.pdf         ← Full idea pitch document
+├── ecocore_pitch_v3.pdf     ← Full idea pitch document
 ├── LICENSE
 └── README.md
 ```
@@ -98,12 +102,12 @@ cd AI-Industrial-Energy-Optimization
 
 **2. Install dependencies**
 ```bash
-pip install streamlit scikit-learn pandas numpy matplotlib
+cd app
+pip install -r requirements.txt
 ```
 
 **3. Run the app**
 ```bash
-cd app
 streamlit run app1.py
 ```
 
@@ -119,12 +123,28 @@ http://localhost:8501
 - **Algorithm** — Random Forest Regressor
 - **Predicts** — Energy Consumption (kWh) + Carbon Emissions (kg CO₂)
 - **Input Features** — Machine type, operating hours, load %, temperature, time of day
-- **Training** — See `ml_model/carbon_model_pkl.ipynb`
-- **Output** — `carbon_model.pkl` (loaded by Streamlit app)
+- **Training** — Run `ml_model/train_model.py` → auto generates `app/carbon_model.pkl`
+- **Evaluation** — MAE, RMSE, R² Score
 
 ---
 
-## 📈 Impact
+## 💼 Business Model
+
+EcoCore AI follows a **SaaS + B2B** approach:
+
+| Model | Details |
+|-------|---------|
+| ☁️ **SaaS** | Cloud-based platform — factories subscribe monthly/annually, no hardware needed |
+| 🏭 **B2B Direct Sales** | Sold to manufacturing plants, factory managers, and industrial groups |
+| 🤝 **Consulting Add-On** | Energy audit + optimization consulting for premium clients |
+| 🏛️ **Govt Partnerships** | Alignment with BEE (Bureau of Energy Efficiency) and MSME schemes |
+| 📦 **Licensing** | White-label licensing to large industrial corporations |
+
+> **Target Market** — Small & Medium Manufacturing Industries across India
+
+---
+
+
 
 ```
 ✅ Up to 25–30% reduction in energy wastage
@@ -137,8 +157,7 @@ http://localhost:8501
 
 ## 🗺️ Roadmap
 
-- [x] ML model training & serialization
-- [x] Carbon emission prediction
+- [x] ML model training & serialization (`train_model.py` → `carbon_model.pkl`)
 - [x] Streamlit interactive dashboard
 - [x] CSV data pipeline
 - [ ] IoT / MQTT real-time sensor feed
