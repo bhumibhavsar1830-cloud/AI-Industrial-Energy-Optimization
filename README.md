@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E87A&height=180&section=header&text=EcoCore%20AI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Powered%20Industrial%20Energy%20%26%20Carbon%20Optimization&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
