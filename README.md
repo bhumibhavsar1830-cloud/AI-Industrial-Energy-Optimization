@@ -1,5 +1,22 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E87A&height=180&section=header&text=EcoCore%20AI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Powered%20Industrial%20Energy%20%26%20Carbon%20Optimization&descAlignY=58&descAlign=50" width="100%"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a2e1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0d3d22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a2e1a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#grad)" rx="0"/>
+  <polygon points="0,130 1200,80 1200,180 0,180" fill="#00E87A" opacity="0.15"/>
+  <polygon points="0,150 1200,110 1200,180 0,180" fill="#00E87A" opacity="0.1"/>
+  <text x="600" y="90" font-family="Arial" font-size="58" font-weight="bold" fill="#00E87A" text-anchor="middle">EcoCore AI</text>
+  <text x="600" y="130" font-family="Arial" font-size="22" fill="#ffffff" text-anchor="middle" opacity="0.9">AI-Powered Industrial Energy &amp; Carbon Optimization</text>
+</svg>
+
+# 🌿 EcoCore AI
+### AI-Powered Industrial Energy & Carbon Optimization
 
 <br/>
 
@@ -176,7 +193,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Built for NIT Surat · ASHINE Hackathon 2026**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E87A&height=100&section=footer" width="100%"/>
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NIT Surat Hackathon](https://img.shields.io/badge/NIT%20Surat-ASHINE%202026-00E87A?style=for-the-badge)
 
 </div>
-
