@@ -167,21 +167,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Built for NIT Surat · ASHINE Hackathon 2026**
 
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NIT Surat Hackathon](https://img.shields.io/badge/NIT%20Surat-ASHINE%202026-00E87A?style=for-the-badge)
-
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" viewBox="0 0 1200 120">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0a2e1a;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0d3d22;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0a2e1a;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="120" fill="url(#footerGrad)"/>
-  <polygon points="0,0 1200,50 1200,0" fill="#00E87A" opacity="0.15"/>
-  <polygon points="0,0 1200,30 1200,0" fill="#00E87A" opacity="0.1"/>
-  <text x="600" y="80" font-family="Arial" font-size="18" fill="#00E87A" text-anchor="middle" font-weight="bold">🌿 EcoCore AI — Saving Energy, Saving the Planet</text>
-</svg>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E87A&height=120&section=footer&text=Saving%20Energy%20%7C%20Saving%20the%20Planet%20%7C%20EcoCore%20AI&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
