@@ -196,4 +196,18 @@ MIT License — see [LICENSE](LICENSE) for details.
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NIT Surat Hackathon](https://img.shields.io/badge/NIT%20Surat-ASHINE%202026-00E87A?style=for-the-badge)
 
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 1200 100">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a2e1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0d3d22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a2e1a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#footerGrad)"/>
+  <path d="M0,40 C150,80 350,0 600,40 C850,80 1050,0 1200,40 L1200,100 L0,100 Z" fill="#00E87A" opacity="0.3"/>
+  <path d="M0,60 C200,20 400,80 600,60 C800,40 1000,80 1200,60 L1200,100 L0,100 Z" fill="#00E87A" opacity="0.2"/>
+  <text x="600" y="75" font-family="Arial" font-size="16" fill="#ffffff" text-anchor="middle" opacity="0.8">🌿 EcoCore AI — Saving Energy, Saving the Planet</text>
+</svg>
+
 </div>
