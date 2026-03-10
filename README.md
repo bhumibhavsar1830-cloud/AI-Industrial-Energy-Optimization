@@ -10,7 +10,7 @@
 
 <br/>
 
-##AI POWERED ENERGY AND CARBON DIOXIDE OPTIMIZATION
+**AI POWERED ENERGY AND CARBON DIOXIDE OPTIMIZATION**
 
 **An AI-powered system that monitors industrial energy consumption, predicts carbon emissions, and gives actionable recommendations — helping factories cut costs and reduce their carbon footprint.**
 
