@@ -1,6 +1,15 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E87A&height=120&section=footer&text=EcoCore%20AI%20—%20Saving%20Energy%2C%20Saving%20the%20Planet&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![MIT License](https://img.shields.io/badge/License-MIT-00E87A?style=for-the-badge)](LICENSE)
+
+<br/>
+
 ##AI POWERED ENERGY AND CARBON DIOXIDE OPTIMIZATION
 
 **An AI-powered system that monitors industrial energy consumption, predicts carbon emissions, and gives actionable recommendations — helping factories cut costs and reduce their carbon footprint.**
