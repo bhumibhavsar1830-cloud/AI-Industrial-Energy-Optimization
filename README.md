@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E87A&height=120&section=footer&text=EcoCore%20AI%20—%20Saving%20Energy%2C%20Saving%20the%20Planet&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
-#AI POWERED ENERGY AND CARBON DIOXIDE OPTIMIZATION
+##AI POWERED ENERGY AND CARBON DIOXIDE OPTIMIZATION
+
 **An AI-powered system that monitors industrial energy consumption, predicts carbon emissions, and gives actionable recommendations — helping factories cut costs and reduce their carbon footprint.**
 
 📄 **[View Full Idea Pitch →](./ecocore_pitch_v3.pdf)**
