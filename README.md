@@ -18,7 +18,7 @@
 
 🔗 **[Live App → Click Here]([https://ai-industrial-energy-optimization-dpqonuhvfup3gdrsgmqu6s.streamlit.app/](https://ai-industrial-energy-optimization-dpqonuhvfup3gdrsgmqu6s.streamlit.app/
 ))**
-
+![App Demo](./Ai.png)
 </div>
 
 > 🔗 **[Open Live App →](https://ai-industrial-energy-optimization-dpqonuhvfup3gdrsgmqu6s.streamlit.app/)**
