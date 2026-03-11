@@ -16,15 +16,10 @@
 
 📄 **[View Full Idea Pitch →](./ecocore_pitch_v3.pdf)**
 
-🔗 **[Live App → Click Here](https://ai-industrial-energy-optimization-dpqonuhvfup3gdrsgmqu6s.streamlit.app/)**
+🔗 **[Live App → Click Here]([https://ai-industrial-energy-optimization-dpqonuhvfup3gdrsgmqu6s.streamlit.app/](https://ai-industrial-energy-optimization-dpqonuhvfup3gdrsgmqu6s.streamlit.app/
+))**
 
 </div>
-
----
-
-## 🖥️ Live Demo
-
-![App Demo](./demo.png)
 
 > 🔗 **[Open Live App →](https://ai-industrial-energy-optimization-dpqonuhvfup3gdrsgmqu6s.streamlit.app/)**
 
